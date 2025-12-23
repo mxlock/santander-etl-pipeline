@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-Este projeto automatiza a criação de mensagens personalizadas de marketing para clientes bancários, utilizando inteligência artificial para gerar recomendações de investimentos baseadas no ID do usuário.
+Este projeto automatiza a criação de mensagens personalizadas de marketing para clientes bancários, utilizando inteligência artificial para gerar mensagens baseadas no ID do usuário.
 
 ## 🚀 Passo a Passo do Projeto
 
