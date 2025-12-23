@@ -1,4 +1,10 @@
-.env
 __pycache__/
-*.csv
-*.json
+*.pyc
+.venv/
+env/
+
+.env
+config.py
+
+.vscode/
+.DS_Store
