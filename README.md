@@ -40,4 +40,4 @@ Antes de rodar o projeto, você precisará:
 
 ## ✒️ Autor
 
-* **Thiago Ferreira** - [Seu LinkedIn](https://www.linkedin.com/in/thiago-ferreira-7a7376121/)
+* **Thiago Ferreira** - (https://www.linkedin.com/in/thiago-ferreira-7a7376121/)
