@@ -41,3 +41,7 @@ Antes de rodar o projeto, você precisará:
 ## ✒️ Autor
 
 * **Thiago Ferreira** - [Linkedin](https://www.linkedin.com/in/thiago-ferreira-7a7376121/)
+
+## 🤝 Agradecimentos
+
+Este projeto foi enriquecido pela colaboração da comunidade DIO. Um agradecimento especial ao [Paulo Leme](https://web.dio.me/topics/api-fake-para-substituir-a-api-inativa-do-desafio-de-projeto?back=%2Ftrack%2Fsantander-2025-ciencia-de-dados-com-python&order=undefined&page=1&search=&tab=forum&track_id=448527b9-14bf-4439-b415-728286138614) pela solução compartilhada no fórum, que auxiliou na integração com a API do Google Gemini para contornar a inatividade da API original do desafio.
